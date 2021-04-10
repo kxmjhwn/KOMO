@@ -4,10 +4,4 @@
 
 * 기간 : 2020.02 ~ 2020.05
 
-* 특이사항
-
-  * Teachable Machine, Kakao Developer API, JavaScript, HTML, CSS 사용
-  
-  * KT, 과학기술정보통신부, 한국정보화진흥원에서 주최한 [2020포스트코로나AI챌린지]에서 최우수상을 수상함
-  
-  * 최종 보고서 링크 : https://kxmjhwn.tistory.com/152?category=1121129
+* blog : https://kxmjhwn.tistory.com/152?category=1121129
